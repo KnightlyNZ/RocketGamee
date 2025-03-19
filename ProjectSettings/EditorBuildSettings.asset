@@ -17,5 +17,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GameScene/Level04.unity
     guid: 20e7c9a2324273d4098195e0100ddcfc
+  - enabled: 1
+    path: Assets/GameScene/MainMenuScene.unity
+    guid: da384da47f7998a4e8fd33c272f764ca
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
